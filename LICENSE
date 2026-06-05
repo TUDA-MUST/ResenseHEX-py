@@ -1,11 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Julian Seiler
-
-This C++/USB library is an independent port that follows the serial protocol of
-the official Arduino library "ResenseHEX" (https://github.com/TUDA-MUST/ResenseHEX,
-MIT License, (c) Mark Suppelt / TU Darmstadt). It targets desktop and single-board
-computer operating systems over USB CDC-ACM instead of an Arduino UART.
+Copyright (c) 2026 Technische Universität Darmstadt - Measurement and Sensor Technology Group
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
